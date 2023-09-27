@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="136486">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00848250</url>
+  </required_header>
+  <id_info>
+    <org_study_id>071078</org_study_id>
+    <nct_id>NCT00848250</nct_id>
+  </id_info>
+  <brief_title>Angiotensin Converting Enzyme Inhibitors During Cardiopulmonary Bypass in Infants and Children</brief_title>
+  <official_title>Effects of Angiotensin Converting Enzyme Inhibition During and After Cardiopulmonary Bypass in Infants and Children With Congenital Heart Defects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vanderbilt University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Vanderbilt University</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether ACE inhibitors alter the fibrinolytic,
+      inflammatory, and hemodynamic response to cardiopulmonary bypass in infants and children
+      with congenital heart disease.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2008</start_date>
+  <completion_date type="Actual">July 2010</completion_date>
+  <primary_completion_date type="Actual">July 2010</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Biomarkers on Ace I versus not on Ace I (Plasminogen Activator Inhibitor -1)</measure>
+    <time_frame>Day 1 (Postoperative day 8:00AM)</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Comparisons on Ace-I versus not on Ace-I (cytokine profile, bradykinin, bradykinin by-products, troponin, postoperative bleeding, postoperative renal function, arterial blood pressure)</measure>
+    <time_frame>Baseline (Before going on cardiopulmonary bypass (CPB), 30 minutes (on CPB), Admission to ICU following surgery, postoperative day 1 (at 8:00AM)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">21</enrollment>
+  <condition>Congenital Heart Disease</condition>
+  <arm_group>
+    <arm_group_label>ACE inhibitor</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients already on an ACE inhibitor will continue it until the day of surgery</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No ACE inhibitor</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients on ACE inhibitors who are randomized to stop their ACE inhibitor 48 hours prior to surgery</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Angiotensin Converting Enzyme Inhibitor</intervention_name>
+    <description>Patients randomized to this group will continue their current dose of ACE inhibitors until surgery</description>
+    <arm_group_label>ACE inhibitor</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No ACE inhibitor</intervention_name>
+    <description>Patients randomized to this arm will discontinue their ACE inhibitor at least 48 hours prior to surgery</description>
+    <arm_group_label>No ACE inhibitor</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Infants or children (newborn to 17 years of age) undergoing cardiopulmonary bypass
+             for elective surgical correction of a congenital heart defect.
+
+          -  Patients must be taking an ACE inhibitor prior to their operation
+
+        Exclusion Criteria:
+
+          -  Patients in which discontinuing ACEIs is deemed unsafe by their primary cardiologist
+
+          -  Any condition rendering the subjects legal guardian unable to understand the nature,
+             scope, and possible consequences of the study.
+
+          -  Pregnancy as ruled out by standard of care screening procedures.
+
+          -  Individuals whose weight is less than 3.5 kg at the time of enrollment.
+
+          -  Inability to comply with the protocol. ie. Children in whom it is deemed unsafe to
+             have the extra blood draws, and children who are thought to be noncompliant with
+             their medications.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gregory A Fleming, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vanderbilt University Medical Center, Division of Pediatric Cardiology</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mias Pretorius, MBChB, MSCI</last_name>
+    <role>Study Director</role>
+    <affiliation>Vanderbilt University Medical Center, Department of Anesthesiology</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Monroe Carell Jr. Children's Hospital at Vanderbilt</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2010</verification_date>
+  <lastchanged_date>October 25, 2010</lastchanged_date>
+  <firstreceived_date>February 5, 2009</firstreceived_date>
+  <responsible_party>
+    <name_title>Gregory Fleming, MD/ Principle Investigator</name_title>
+    <organization>Vanderbilt University Medical Center, Division of Pediatric Cardiology</organization>
+  </responsible_party>
+  <keyword>Cardiopulmonary Bypass</keyword>
+  <keyword>ACE inhibitor</keyword>
+  <keyword>Pediatrics</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Heart Defects, Congenital</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Angiotensin-Converting Enzyme Inhibitors</mesh_term>
+    <mesh_term>Enzyme Inhibitors</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>
